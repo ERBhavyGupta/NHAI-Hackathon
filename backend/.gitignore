@@ -1,0 +1,8 @@
+
+__pycache__/
+*.pyc
+.env
+lambda.zip
+b2_backend.zip
+face_env_311
+
